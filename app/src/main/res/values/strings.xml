@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TeamProjectsAndroidApp1</string>
+    <string name="unlock_safe">Unlock Safe</string>
+    <string name="change_pin">Change Pin</string>
+    <string name="view_activity_log">View Activity Log</string>
+    <string name="enter_new_pin">Enter new pin</string>
+    <string name="submit_pin_to_server">Submit Pin To Server</string>
+    <string name="new_pin">New Pin</string>
+</resources>
